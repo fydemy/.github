@@ -1,4 +1,4 @@
-## Fydemy Community 
+## Fydemy
 
 Welcome to **Fydemy**! 🚀  
 We are a community-driven initiative focused on **open-source software engineering** and **e-learning**.  
