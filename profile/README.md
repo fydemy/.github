@@ -1,4 +1,8 @@
+
 ## Fydemy
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white)](https://discord.gg/7FBpTEXqVj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white)](https://linkedin.com/company/fydemy)
+
 
 Welcome to **Fydemy**! 🚀  
 We are a community-driven initiative focused on **open-source software engineering** and **e-learning**.  
@@ -12,6 +16,3 @@ We are a community-driven initiative focused on **open-source software engineeri
 - 🚀 Contribute to our repositories  
 - ✨ Join discussions and share knowledge  
 - 💡 Learn, build, and grow together  
-
-🚨 Discord: [fydemy.com](https://discord.gg/7FBpTEXqVj)  
-💼 LinkedIn: [Fydemy](https://linkedin.com/company/fydemy) 
